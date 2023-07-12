@@ -1,5 +1,7 @@
 {
   "Amazon": [
+    "\\bIBAN\\b",
+    "\\bBIC\\b",
     "no-link",
     "no-img",
     "other platform",
@@ -116,12 +118,16 @@
     "^[a-z0-9]+([._\\-]*[a-z0-9])*@([a-z0-9]+[-a-z0-9]*[a-z0-9]+.){1,63}[a-z0-9]+$"
   ],
   "ebay": [
+    "\\bIBAN\\b",
+    "\\bBIC\\b",
     "no-attachment",
     "\\bAmazon\\b",
     "\\bManoMano\\b",
     "\\bMano Mano\\b"
   ],
   "manomano": [
+    "\\bIBAN\\b",
+    "\\bBIC\\b",
     "\\bAmazon\\b",
     "\\bebay\\b",
     "\\bshopee\\b",
