@@ -181,9 +181,9 @@
     "\\bAltro venditore\\b",
     "\\bOtro vendedor\\b"
   ],
-  "ebay": [
-    "\\attachment\\b",
-    "\\label\\b",
+  "B2B": [
+    "\\battachment\\b",
+    "\\blabel\\b",
     "\\bpick up\\b"
   ]
 }
