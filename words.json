@@ -181,7 +181,7 @@
     "\\bAltro venditore\\b",
     "\\bOtro vendedor\\b"
   ],
-  "B2B": [
+  "b2b": [
     "\\battachment\\b",
     "\\blabel\\b",
     "\\bpick up\\b"
