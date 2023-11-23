@@ -180,5 +180,10 @@
     "\\bautre vendeur\\b",
     "\\bAltro venditore\\b",
     "\\bOtro vendedor\\b"
+  ],
+  "ebay": [
+    "\\attachment\\b",
+    "\\label\\b",
+    "\\bpick up\\b"
   ]
 }
